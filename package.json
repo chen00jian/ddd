@@ -17,7 +17,5 @@
     "url": "https://github.com/chen00jian/ddd/issues"
   },
   "homepage": "https://github.com/chen00jian/ddd#readme",
-  "devDependencies": {
-    "jquery": "^3.3.1"
-  }
+  "devDependencies": {}
 }
